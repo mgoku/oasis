@@ -39,6 +39,9 @@ publish
 # KDE Dolphin Directory Configuration
 .directory
 
+# KDevelop
+*.kdev4
+
 # OASIS
 storage/
 
